@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/pr2_2.dir/main.cpp.o -o pr2_2 
